@@ -1,2 +1,2 @@
-# Tanuja
+# New repository
 MyRepository
